@@ -1,29 +1,9 @@
 :root {
-    color-scheme: light;
-    --bg: #f5f5f7;
-    --bg-gradient: linear-gradient(180deg, #f8f9fb 0%, #fef9f2 100%);
-    --card-bg: #ffffff;
-    --text: #1c1d21;
-    --muted: #62646c;
-    --border: rgba(28, 29, 33, 0.08);
-    --shadow: 0 20px 45px rgba(15, 23, 42, 0.08);
-    --shadow-hover: 0 28px 60px rgba(15, 23, 42, 0.14);
-    --radius-lg: 24px;
-    --radius-sm: 14px;
-    --accent: #ff8b2c;
-    --accent-soft: rgba(255, 139, 44, 0.12);
-    --brand: #0f172a;
-    --brand-soft: rgba(15, 23, 42, 0.06);
-    --pill: rgba(15, 23, 42, 0.06);
-    --pill-hover: rgba(15, 23, 42, 0.12);
-    --fw-semibold: 600;
-    --transition: 180ms ease;
-    --topbar-bg: linear-gradient(120deg,
-            rgba(255, 255, 255, 0.96),
-            rgba(255, 255, 255, 0.84));
-    --card-hero-start: #ffffff;
-    --card-hero-end: #fff1df;
-    --card-hero-glow: rgba(255, 139, 44, 0.25);
+     --primary-color: #8a2be2;     
+  --primary-dark: #6a0dad;     
+  --primary-light: #b57aff;    
+  --accent-color: #d8b4ff;      
+  --background-light: #f9f5ff;  
 }
 
 *,
